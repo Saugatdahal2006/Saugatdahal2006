@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saugatdahal2006
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in cyber security.
+- 🌱 I’m currently learning networking.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I hate you if you hate hardworking.
 
